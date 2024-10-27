@@ -17,7 +17,7 @@ import com.eventos.api.domain.evento.Evento;
 import java.util.Date;
 
 @Entity
-@Table(name = "cupom")
+@Table(name = "coupon")
 @Getter
 @Setter
 @AllArgsConstructor
